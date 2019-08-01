@@ -1,0 +1,2 @@
+# React & Redux
+Some notes for React & Redux stack. Most of my work is dealing with this stack, it's easier to develop and maintain than old technology, sometimes it brings me some trouble and I am still learning it.

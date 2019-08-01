@@ -1,0 +1,2 @@
+# HTML & CSS & Web
+Some notes for basic Web services and languages. Although most time I am working on React & Redux stack, HTML, CSS and Web basics still confused me sometime and some features are still useful in project
